@@ -1,0 +1,12 @@
+name = Feeds
+core = 7.x
+package = Checkpoint
+project = Checkpoint
+version = 7.x-1.0
+
+; Contributed Modules
+
+; Components
+dependencies[] = common
+
+features[features_api][] = api:2
