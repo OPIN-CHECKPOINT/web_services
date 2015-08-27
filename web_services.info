@@ -1,4 +1,4 @@
-name = Feeds
+name = Web Services
 core = 7.x
 package = Checkpoint
 project = Checkpoint
