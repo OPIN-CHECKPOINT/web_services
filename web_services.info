@@ -10,6 +10,7 @@ dependencies[] = common
 ; Contributed Modules
 dependencies[] = services
 dependencies[] = services_oauth
+dependencies[] = oauth
 dependencies[] = rest_server
 dependencies[] = xmlrpc_server
 
